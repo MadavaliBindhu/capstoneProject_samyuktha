@@ -1,0 +1,49 @@
+.userdata{
+    margin-left:130px;
+    border:2px solid black;
+    width:1500px;
+    padding:30px 30px 30px 30px;
+    margin-top:50px;
+    border-radius: 25px;
+    color:blue;
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+.userdata h1{
+    text-align: center;
+}
+.userdata h3{
+    margin-top:20px;
+    margin-left: -500px;
+    font-size:24px;
+}
+input{
+    font-size:25px;
+    padding:20px 10px 20px 30px;
+    border-radius:15px;
+    margin-left:100px;
+    width:750px;
+}
+.submit{
+    margin-top: 50px;
+    margin-left:130px;
+    padding:10px 20px 10px 20px;
+    border-radius:10px;
+    font-size:20px;
+    background-color: #90ebf1;
+}
+.submit:hover{
+    background: rgb(97, 97, 234);
+    cursor:pointer;
+    color:white;
+}
+textarea {
+    width: 780px;
+    height: 150px;
+    padding: 12px 20px;
+    border: 2px solid black;
+    margin-left: 100px;
+    border-radius: 15px;
+    font-size: 20px;
+    resize: none;
+}
+

@@ -1,11 +1,11 @@
 
 import './App.css';
-
+import Filecomplaint from './Components/Complaints/Filecomplaint';
 function App() {
   return (
     <div className="App">
-        <h1>welcome to the project</h1>
-        <h2>bindhu</h2>
+      <Filecomplaint />
+
     </div>
   );
 }
