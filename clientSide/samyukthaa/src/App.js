@@ -1,13 +1,11 @@
-
 import './App.css';
-import Filecomplaint from './Components/Complaints/Filecomplaint';
-function App() {
+import Routes from './Components/Routes/Routes';
+
+function App(){
   return (
-    <div className="App">
-      <Filecomplaint />
-
+    <div className='App'>
+      <Routes />
     </div>
-  );
+  )
 }
-
 export default App;
