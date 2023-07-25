@@ -1,0 +1,96 @@
+.maindiv{
+    width:auto;
+    display:flex;
+    background-color: #90ebf1;
+}
+.letter{
+    font-size:24px;
+    cursor: pointer;
+    margin-left:30px;
+}
+.text:hover{
+    text-decoration: none;
+    color: white;
+}
+.home_text{
+    padding:30px 20px 0px 20px ;
+}
+.home{
+    text-decoration: none;
+    color:blue;
+    margin-left:800px;
+    font-size:22px;
+    padding: 30px 20px 0px 20px;
+}
+.Logo{
+    text-decoration: none;
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+    cursor: pointer;
+}
+.file{
+    text-decoration: none;
+    color:blue;
+}
+.File{
+    margin-left:10px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+}
+.consel{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.signup{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:22px;
+    color:#000080;
+}
+.login{
+    margin-left:20px;
+    padding:30px 20px 0px 20px ;
+    font-size:24px;
+    color:#000080;
+}
+.home:hover{
+    cursor: pointer; 
+    border-radius:25px;
+    color:white;
+    text-decoration: none;
+    padding: 20px 20px 20px 20px;
+    background-color: #1679fa;
+}
+.file:hover{
+    cursor: pointer; 
+    border-radius:25px;
+    color:white;
+    text-decoration: none;
+    padding: 20px 0px 20px 0px;
+    background-color: #1679fa;
+}
+.consel:hover{
+    cursor: pointer; 
+    border-radius:25px;
+    color:white;
+    text-decoration: none;
+    padding: 20px 0px 20px 0px;
+    background-color: #1679fa;
+}
+.signup:hover{
+    background-color:blue;
+    cursor: pointer;
+    padding: 20px 20px 20px 20px;
+    border-radius:25px;
+    color:white;
+}
+.login:hover{
+    background-color:blue;
+    cursor: pointer;
+    padding: 20px 20px 20px 20px;
+    border-radius:25px;
+    color:white;
+}

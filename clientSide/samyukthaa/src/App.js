@@ -1,13 +1,11 @@
-
 import './App.css';
+import Routes from './Components/Routes/Routes';
 
-function App() {
+function App(){
   return (
-    <div className="App">
-        <h1>welcome to the project</h1>
-        <h2>bindhu</h2>
+    <div className='App'>
+      <Routes />
     </div>
-  );
+  )
 }
-
 export default App;
