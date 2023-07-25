@@ -1,0 +1,318 @@
+.banner{
+    width:1810px;
+    height:850px;
+}
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+  
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width:400px;
+    background-color: #90ebf1;
+    height:300px;
+    border-radius:35px;
+}
+
+.text-overlay h1 {
+    font-size: 24px;
+    margin-top: 55px;
+}
+.text-overlay p {
+    font-size: 24px;
+}
+.text-overlay:hover{
+    background-color: rgb(68, 68, 247);
+    cursor: pointer;
+    color: white;
+}
+.namasthe{
+    width: 150px;
+    margin-left:400px;
+    margin-top:85px;
+}
+.come-page h2 {
+    font-size: 24px;
+    color: #1313f6;
+    margin-left:390px;
+    font-style: italic;
+    margin-top:-8px;
+}
+.come-page h1 {
+    font-size: 32px;
+    color: blue;
+    margin-left:360px;
+    font-style: italic;
+    margin-top:-25px;
+}
+.welcome{
+    display: flex;
+    background-color: #c2eef2;
+    min-height:250px;
+}
+.emergency{
+    margin-left:450px;
+}
+.emergency h1{
+    color: #1313f6;
+    margin-left:80px;
+}
+.emergency p{
+    font-size: 25px;
+}
+.works{
+    text-align: center;
+    font-weight: bolder;
+    color:#1313f6;
+    margin-top:40px;
+    font-size:32px;
+}
+.itwork{
+    margin-top:40px;
+}
+.calandar{
+    border-radius:60px;
+    margin-left:30px;
+    width:200px;
+}
+.arrow{
+    border-radius:60px;
+    width:150px;
+    margin-bottom:30px;
+}
+.person{
+    border-radius:500px;
+    width:230px;
+    margin-top:20px;
+}
+.message{
+    border-radius:350px;
+    width:180px;
+}
+.clock{
+    border-radius:80px;
+    width:160px;
+    margin-bottom:30px;
+    margin-left:20px;
+}
+.function{
+    display: flex;
+    text-align: center;
+    margin-left:280px;
+    margin-top: 40px;
+}
+.Book{
+    color: #000080;
+    font-size:20px;
+}
+.pick{
+    margin-left:180px;
+    text-align: center;
+    color: #000080;
+    font-size:20px;
+}
+.join{
+    margin-left:180px;
+    text-align: center;
+    color: #000080;
+    font-size:20px;
+}
+.reschedule{
+    margin-left:150px;
+    text-align: center;
+    color: #000080;
+    font-size:20px;
+}
+.help{
+    font-size:30px;
+    color:blue;
+    text-align: center;
+    margin-top:50px;
+    font-weight: bold;
+}
+.Specialized{
+    background-color: #c2eef2;
+    margin-top:30px;
+}
+.Special{
+    background-color: #c2eef2;
+}
+.Spe{
+    background-color: #c2eef2;
+    height:150px;
+}
+.Anxiety{
+    border:none;
+    border-radius:15px;
+    margin-top:40px;
+    font-size:18px;
+    padding:22px 22px 22px 22px;
+    background-color:white;
+}
+.Anxiety:hover{
+    color:white;
+    cursor: pointer;
+    background-color: blue;
+}
+.Depress{
+    margin-left:50px;
+    border:none;
+    border-radius:15px;
+    margin-top:40px;
+    padding:22px 40px 22px 40px;
+    font-size:18px;
+    background-color:white;
+
+}
+.Depress:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.Issues{
+    margin-left:50px;
+    margin-top:40px;
+    border:none;
+    border-radius:15px;
+    padding:22px 22px 22px 22px;
+    font-size:18px;
+    background-color:white;
+
+}
+.Issues:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.OCD{
+    margin-left:50px;
+    margin-top:40px;
+    padding:22px 55px 22px 55px;
+    border:none;
+    border-radius:15px;
+    font-size:18px;
+    background-color:white;
+
+}
+.OCD:hover{
+    color:white;
+    cursor: pointer;
+    background-color: blue;
+}
+.Psychosis{
+    margin-top:40px;
+    border:none;
+    border-radius:15px;
+    padding:22px 49px 22px 49px;
+    font-size:18px;
+    background-color:white;
+
+}
+.Psychosis:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.Grief{
+    margin-left:50px;
+    margin-top:40px;
+    border:none;
+    border-radius:15px;
+    padding:22px 36px 22px 36px;
+    font-size:18px;
+    background-color:white;
+
+}
+.Grief:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.Couple{
+    margin-left:40px;
+    margin-top:40px;
+    border:none;
+    border-radius:15px;
+    padding:22px 40px 22px 40px;
+    font-size:18px;
+    background-color:white;
+
+}
+.Couple:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.LGB{
+    margin-left:40px;
+    margin-top:40px;
+    border:none;
+    border-radius:15px;
+    padding:22px 40px 22px 40px;
+    font-size:18px;
+    background-color:white;
+
+}
+.LGB:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.Teenage{
+    /* margin-left:600px; */
+    margin-top:40px;
+    border:none;
+    border-radius:15px;
+    padding:22px 49px 22px 49px;
+    font-size:18px;
+    background-color:white;
+
+}
+.Teenage:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.Sexual{
+    margin-left:50px;
+    margin-top:40px;
+    border:none;
+    border-radius:15px;
+    padding:22px 36px 22px 36px;
+    font-size:18px;
+    background-color:white;
+
+}
+.Sexual:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.Bipolar{
+    margin-left:40px;
+    margin-top:40px;
+    border:none;
+    border-radius:15px;
+    padding:22px 35px 22px 35px;
+    font-size:18px;
+    background-color:white;
+
+}
+.Bipolar:hover{
+    color:white;
+    cursor: pointer;
+    background-color:blue;
+}
+.Involved{
+    color:blue;
+}
+
+
+
+ 

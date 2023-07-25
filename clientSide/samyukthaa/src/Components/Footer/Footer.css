@@ -1,0 +1,89 @@
+.footer{
+    display: flex;
+    width:auto;
+    height:230px;
+    margin-top:50px;
+    background-color: #90ebf1;
+}
+.h1{
+    margin-left:750px;
+    color:blue;
+}
+.location{          
+    margin-top:40px;
+    color:#000080;
+    margin-left:220px;
+}
+.items{
+    margin-top:10px;
+    margin-left:10px;
+    font-size:16px;
+}
+.about{
+    /* margin-left:300px; */
+    font-size:22px;
+    font-weight:bold ;
+    margin-top:25px;
+}
+.Location{
+    margin-top:40px;
+    color:#000080;
+    margin-left:250px;
+    text-align: center;
+}
+.state{
+    margin-top:10px;
+    margin-left:10px;
+    font-size:16px;
+}
+.loco{
+    font-size:22px;
+    font-weight:bold;
+    margin-top:25px;
+}
+.footer1{
+    margin-top: 10px;
+    /* margin-left: 250px; */
+}
+.contact h1{
+    font-size:22px;
+    font-weight:bold;
+    margin-top:60px;
+    margin-left:180px;
+    color:#000080;
+}
+.numbers{
+    text-align: center;
+    margin-left:190px;
+    color: #000080;
+    margin-top:10px;
+}
+.media-1{
+    display: flex;
+}
+.media{
+    margin-top:40px;
+    color:#000080;
+    margin-left:180px;
+    text-align: center;
+    
+}
+.google{
+    border-radius:1225px;
+    width:50px;
+}
+.face{
+    border-radius:1225px;
+    width: 50px;
+    margin-left:10px;
+}
+.insta{
+    border-radius:1225px;
+    width: 50px;
+    margin-left:10px;
+}
+.social{
+    font-size:22px;
+    font-weight:bold;
+    margin-top:20px;  
+}
